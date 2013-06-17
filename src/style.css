@@ -1,0 +1,6 @@
+span.super-metrico-converted {
+  cursor: pointer;
+}
+span.super-metrico-converted:hover {
+  border: 1px dashed gray;
+}
