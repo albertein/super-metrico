@@ -1,6 +1,16 @@
-span.super-metrico-converted {
-  cursor: pointer;
+body {
+  min-width: 357px;
+  overflow-x: hidden;
 }
-span.super-metrico-converted:hover {
-  border: 1px dashed gray;
+
+img {
+  margin: 5px;
+  border: 2px solid black;
+  vertical-align: middle;
+  width: 75px;
+  height: 75px;
+}
+
+ul {
+  list-style-type: none;
 }
