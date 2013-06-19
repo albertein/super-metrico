@@ -68,7 +68,7 @@ var superMetrico = (function() {
         }
       }
       var item = document.createElement("LI");
-      item.innerText = originalValue + " " + originalUnit + " -> " + value + " " + unit;
+      item.innerText = originalValue + " " + originalUnit + " > " + value + " " + unit;
       container.appendChild(item);
     }
     var content = document.getElementById("content");
