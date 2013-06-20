@@ -2,7 +2,7 @@
   "manifest_version": 2,
 
   "name": "Super Metrico",
-  "description": "This extension automatically convert units from the imperial system back to the international metric system",
+  "description": "This extension converts units from the imperial system back to the international metric system.",
   "version": "0.1",
 
   "browser_action": {
